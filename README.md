@@ -1,6 +1,10 @@
 # automatic image centring
 a lightweight automatic image centring script for obsidian
 
+features:
+
+a simple script will automatically center any image imported into obsidian, regardless of pixel resizing
+
 to install:
 
 download the css file, and import into your obsidian's custom css snippet folder
